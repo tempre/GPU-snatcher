@@ -1,16 +1,16 @@
 # GPU Snatcher
 
-![](https://imgur.com/ozOlKGU)
+![](https://i.imgur.com/ozOlKGU.gif)
 
-##About
+## About
 
 This simple bot won't guarnetee you a new 30 series card, but hopefully it will help.
 
-##Notice
+## Notice
 
 On a note please be wary of the traffic you are sending to newegg as you could risk ban for automation. During my test I was able to achieve around 12 hours without any issues.
 
-##Installation
+## Installation
 
 To get this bad boy going you're going to need [selenium](https://selenium-python.readthedocs.io/installation.html).
 
